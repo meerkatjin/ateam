@@ -21,7 +21,7 @@ import java.util.concurrent.ExecutionException;
 
 public class MainActivity extends AppCompatActivity {
 
-    //수정 TEST : 황동훈
+    //수정 TEST : 황동훈 20210106
 
     // 로그인이 성공하면 static 로그인DTO 변수에 담아서
     // 어느곳에서나 접근할 수 있게 한다

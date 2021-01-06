@@ -20,7 +20,7 @@ import com.example.my46_project_multipart_update.Dto.MemberDTO;
 import java.util.concurrent.ExecutionException;
 
 public class MainActivity extends AppCompatActivity {
-
+    //세라테스트
     //수정 TEST : 황동훈 20210106
 
     // 로그인이 성공하면 static 로그인DTO 변수에 담아서

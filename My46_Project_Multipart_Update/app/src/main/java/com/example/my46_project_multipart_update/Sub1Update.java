@@ -34,13 +34,13 @@ import java.util.Date;
 import static com.example.my46_project_multipart_update.Common.CommonMethod.ipConfig;
 import static com.example.my46_project_multipart_update.Common.CommonMethod.isNetworkConnected;
 
-
+//상상도 못한 존재 ㄴㅇㄱ ㄴㅇㄱ ㄴㅇㄱ ㄴㅇㄱ 신봉선
 public class Sub1Update extends AppCompatActivity {
 
     EditText etId, etName;
     String id, name, date;
 
-    DatePicker DPdate;
+    DatePicker DPdate, TestDate_LCH;
     Button photoBtn, photoLoad;
 
     int year, month, day;

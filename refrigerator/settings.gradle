@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "속보이는냉장고"
